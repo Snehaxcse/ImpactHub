@@ -74,4 +74,4 @@ Posts are mapped to events with generated dates, locations, and categories.
 
 ## 👤 Author
 
-Your Name — [GitHub](https://github.com/your-username)
+Sneha Aggarwal
